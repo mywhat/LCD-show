@@ -7,7 +7,9 @@ https://github.com/lcdwiki/LCD-show-kali
 ### Install drivers in the RetroPie system
 https://github.com/lcdwiki/LCD-show-retropie
 
-
+### LCD35 for arch
+### Install drivers in the Archlinux system
+sudo ./LCD35-show
 
 Install drivers in the Raspbian system<br>
 ====================================================
